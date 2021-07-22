@@ -14,6 +14,7 @@ Enter your birth day, month and year to get your Akan name.
 JAVASCRIPT
 HTML
 CSS
+BOOTSTRAP
 
 # Contact information.
 0717819204
