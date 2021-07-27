@@ -1,6 +1,9 @@
 # week-2-assignment
 # Project name.
 AKAN NAME FINDER
+#webisite
+https://kibegwamoriah.github.io/week-2-assignment/
+
 # Project description.
 This project is used to find an individual's Akan name which is a Nigerian way of naming individuals according to their day of the week birth.
 an individual is required to feed their date of birth, month and year. then the system will calculate the day using simple javascript function.
