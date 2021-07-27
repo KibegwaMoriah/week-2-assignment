@@ -1,7 +1,8 @@
 # week-2-assignment
 # Project name.
 AKAN NAME FINDER
-#webisite
+
+# Website
 https://kibegwamoriah.github.io/week-2-assignment/
 
 # Project description.
